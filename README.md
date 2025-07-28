@@ -103,7 +103,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-2302&show_icons=true&locale=en&layout=compact" alt="mehedi-hasan-2302" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan-2302&" alt="mehedi-hasan-2302" width="48%" />
-</div><!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-2302&show_icons=true&locale=en&layout=compact" alt="mehedi-hasan-2302" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan-2302&" alt="mehedi-hasan-2302" /></p><!--
